@@ -1,5 +1,5 @@
 # ReviewRadar
-Enhancing Product Review Analysis with Advanced NLP Techniques
+Enhancing Product Review Analysis with Advanced NLP Techniques.
 E-commerce platforms rely heavily on customer reviews
 to inform potential buyers about product quality and
 performance. However, the presence of fake reviews can
